@@ -118,7 +118,7 @@ $subscriber = $result['items'][0]['statistics']['subscriberCount'];
                         <div class="col-md-8">
                             <h5><?= $channelName; ?></h5>
                             <p><?= $subscriber; ?> Subscribers</p>
-                            <div class="g-ytsubscribe" data-channelid="UCkXmLjEr95LVtGuIm3l2dPg" data-layout="default" data-count="default"></div>
+                            <div class="g-ytsubscribe" data-channelid="UCRxZSJi-qiR7blysNgutadA" data-layout="default" data-count="default"></div>
                         </div>
                     </div>
 
